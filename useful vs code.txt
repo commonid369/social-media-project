@@ -1,0 +1,95 @@
+ms code studio
+live server
+auto close tag
+ctrl +shift +t
+open live server
+-------------------------------------
+
+relative link 
+target 
+-----------------------------
+mdn
+lipsum.com
+
+-------------------------------
+inspect - network 
+iframes -inline
+to build content from one webpage to another web page
+------------------------------------
+iframe --> name
+------------------------------------------
+target(name of iframe) 
+black - new tab.
+if i click on inner link the link page open here
+-----------------------------------------------------------------
+google do not open in iframes
+target blank the now opens
+------------------------------------------------------
+target="_parent"
+open in parent(new tab) page
+------------------------------------------------------
+there can be nested iframes so terminology parent
+--------------------------------------------
+a ,b, c,d you can target from d ->> c or a(top) not b 
+
+-----------------------
+question
+put same page in its own iframe? recursion type
+it will go one sublevel document browser are not dumb to go into
+recursion
+
+ques - src is the page that is open in iframe by default
+href is the link when we click the it will load .
+default target is blank
+----------------------------------------------------
+html element refrence mdn
+-----------------------------------------------
+sample-videos.com
+---------------------------------------------------------------------------
+alt -(reason) photo does not load it will show up , if the person uses screen reader the alt sentence
+-------------------------------------------------------------------------------
+img  : only width then(aspect ration set automatic)
+video : controls (necessary give) , src , autoplay , loop ,preload - thumbnail , length of video,size of the video is not loaded in browser in network page 
+but now auto play disable
+metadata - only(thumbnail and length)
+auto - video will download as the user hit the website
+---------------------------------------------------------------------------------
+audio - saare video jaise control hote hai
+controls,autoplay(now it is stopped)
+-----------------------------------------------------------------------
+
+forms
+---------------------------------------------
+tag which do not have input input
+text area
+
+select (multiple option) drop down 
+--------------------------------------
+use label - click on it option will be selected
+password - just show black dots  . no security - inspect - we can see password
+extension - are the javascript that run on top of browser
+so they can extract the passwork
+email- just do format check. do not check it is valid or not
+number - min start from 100
+date - follows local of the browsers 
+color - change to text in inspect show the hash code
+file - browse botton
+checkbox  - multiple options
+radio(options should have same name) - one option
+radio regulator has capsitor more the capacitance . not work property
+fixed capacitance . conncetion jack - hole put pin , so we can select one
+id , label (label for id) that option we can only select
+we se cannot set c it is fixed selected
+
+
+----------------------------------
+for making searh engine
+
+action (url)
+name (q)	(bcause in search query in url given text start after q)
+type (submit)
+reset button
+-----------------------------------------
+
+HW admission page of coding blocks. logo ,forms ,relative link(same folder), 
+

@@ -1,0 +1,43 @@
+.container {
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+    background-color:white;
+}
+
+.item {
+    
+    border-radius: 100px;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    box-shadow: white 10px 10px 50px ;
+    background-color: orange;
+    border: solid black 1px;
+    display: inline-block;
+    transition: 0.8;
+    animation: bounce 5s;
+    animation-iteration-count: infinite;
+}
+
+.one {
+    animation-timing-function: ease-in;
+}
+.two {
+    animation-timing-function: ease-out;
+}
+.three {
+    animation-timing-function: linear;
+}
+
+@keyframes bounce {
+    0% {
+
+    }
+    50% {
+        transform: translateY(300px);
+    }
+    100% {
+
+    }
+}
